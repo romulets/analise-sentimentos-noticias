@@ -464,7 +464,7 @@ texto,classe
 "Assaltante faz refém em Cotiporã. Suspeito entrou na casa de um agricultor e o fez refém até levá-lo a Bento Gonçalves.",medo
 "Criminosos fazem reféns em Constantina e Sarandi após assaltarem bancos. Pelo menos 13 pessoas foram feitas reféns. ",medo
 "Homem armado faz reféns em lancheria de Porto Alegre. Um dos reféns estaria sob a mira de um revólver. ",medo
-"Passageiros temem assaltos durante viagens de ônibus no Paraná. O medo virou rotina dos passageiros que precisam viajar de ônibus à noite com destino à região de Foz do Iguaçu, no oeste do Paraná. A rota, que é conhecida pela grande quantidade de ônibus de sacoleiros que precisam passar pelo trecho, virou alvo de assaltantes. ',medo
+"Passageiros temem assaltos durante viagens de ônibus no Paraná. O medo virou rotina dos passageiros que precisam viajar de ônibus à noite com destino à região de Foz do Iguaçu, no oeste do Paraná. A rota, que é conhecida pela grande quantidade de ônibus de sacoleiros que precisam passar pelo trecho, virou alvo de assaltantes. ",medo
 "'Pensei que íamos todos morrer', diz professora que salvou alunos. Kaitlin Roig falou sobre o massacre em entrevista à rede americana ABC. Atirador invadiu escola de Connecticut nesta sexta e disparou contra alunos.",medo
 "Medo da gripe faz máscara virar parte de uniforme em MG: Funcionários de empresa de fertilizantes adotaram acessório. No porto seco, caminhoneiros recebem folhetos com orientações.",medo
 "Aumento da criminalidade no Centro de Divinópolis preocupa moradores. Câmeras 'Olho Vivo' irão ajudar a monitorar região, diz PM.",medo
@@ -578,7 +578,7 @@ texto,classe
 "Assaltante faz refém em Cotiporã. Suspeito entrou na casa de um agricultor e o fez refém até levá-lo a Bento Gonçalves.",medo
 "Criminosos fazem reféns em Constantina e Sarandi após assaltarem bancos. Pelo menos 13 pessoas foram feitas reféns. ",medo
 "Homem armado faz reféns em lancheria de Porto Alegre. Um dos reféns estaria sob a mira de um revólver. ",medo
-"Passageiros temem assaltos durante viagens de ônibus no Paraná. O medo virou rotina dos passageiros que precisam viajar de ônibus à noite com destino à região de Foz do Iguaçu, no oeste do Paraná. A rota, que é conhecida pela grande quantidade de ônibus de sacoleiros que precisam passar pelo trecho, virou alvo de assaltantes. ',medo
+"Passageiros temem assaltos durante viagens de ônibus no Paraná. O medo virou rotina dos passageiros que precisam viajar de ônibus à noite com destino à região de Foz do Iguaçu, no oeste do Paraná. A rota, que é conhecida pela grande quantidade de ônibus de sacoleiros que precisam passar pelo trecho, virou alvo de assaltantes. ",medo
 "'Pensei que íamos todos morrer', diz professora que salvou alunos. Kaitlin Roig falou sobre o massacre em entrevista à rede americana ABC. Atirador invadiu escola de Connecticut nesta sexta e disparou contra alunos.",medo
 "Medo da gripe faz máscara virar parte de uniforme em MG: Funcionários de empresa de fertilizantes adotaram acessório. No porto seco, caminhoneiros recebem folhetos com orientações.",medo
 "Aumento da criminalidade no Centro de Divinópolis preocupa moradores. Câmeras 'Olho Vivo' irão ajudar a monitorar região, diz PM.",medo
@@ -725,7 +725,7 @@ texto,classe
 "Médicos tentam explicar origens das cãibras noturnas: Episódios são comuns, sobretudo em pessoas mais velhas. Múltiplas causas podem estar ligadas ao fenômeno.",neutro
 "Ministro brasileiro visita Cuba para aumentar comércio e investimento: Miguel Jorge, da Indústria e Comércio, fica até quinta-feira (9) na ilha. Brasil é o segundo parceiro comercial da ilha na região após a Venezuela.",neutro
 "Ministro diz que acordo com Paraguai não terá impacto no preço da energia: Segundo Paulo Bernardo, essa é uma determinação do presidente Lula. Ele disse ainda que Tesouro deve assumir diferença paga aos paraguaios.",neutro
-"Revisor do processo do mensalão diz que José Dirceu não cometeu corrupção ativa. O ex-ministro-chefe da Casa Civil José Dirceu está sendo inocentado da acusação de corrupção ativa pelo revisor da Ação Penal 470, ministro Ricardo Lewandowski. Apesar de ainda não ter proclamado oficialmente seu voto, o ministro do Supremo Tribunal Federal (STF) já disse que não há provas da participação de Dirceu na distribuição de dinheiro a políticos da base aliada ao governo entre 2003 e 2004, esquema conhecido como mensalão. ',neutro
+"Revisor do processo do mensalão diz que José Dirceu não cometeu corrupção ativa. O ex-ministro-chefe da Casa Civil José Dirceu está sendo inocentado da acusação de corrupção ativa pelo revisor da Ação Penal 470, ministro Ricardo Lewandowski. Apesar de ainda não ter proclamado oficialmente seu voto, o ministro do Supremo Tribunal Federal (STF) já disse que não há provas da participação de Dirceu na distribuição de dinheiro a políticos da base aliada ao governo entre 2003 e 2004, esquema conhecido como mensalão. ",neutro
 "Petróleo atinge nível mais alto em um mês em Nova York: Na Nymex, barril para entrega em junho fechou a US$ 53,20. Durante a sessão, o preço do barril chegou a US$ 53,65.",neutro
 "Leia os principais momentos do chat do G1 e tire dúvidas sobre a poupança: Economista da FAAP tirou dúvidas enviadas pelos internautas. 'Não é o momento de ficar preocupado', afirmou.",neutro
 "Cinco imóveis são demolidos no Recife: Estabelecimentos estavam em área pública e não tinham alvará . Proprietários disseram que aguardavam decisão da Justiça.",neutro
@@ -862,7 +862,7 @@ texto,classe
 "Mãe russa se distrai com bolsa e carrinho de bebê vai parar na rua. Motorista precisou buzinar para alertar mulher sobre o perigo.",raiva
 "Mãe esquece filho em loja nos EUA e só percebe 1 hora depois. Os policiais acabaram achando maconha com a mãe.",raiva
 "Americana leva filha de 5 anos a câmara de bronzeamento. Enfermeira da escola descobriu caso após ver queimaduras em Anne.",raiva
-"Motociclista foge após causar acidente em Boa Vista, diz polícia. Duas pessoas ficaram feridas no acidente de trânsito neste domingo ',raiva
+"Motociclista foge após causar acidente em Boa Vista, diz polícia. Duas pessoas ficaram feridas no acidente de trânsito neste domingo ",raiva
 "Carne de rato é vendida como se fosse cordeiro na China. Autoridades chinesas descobriram que restaurantes estavam vendendo carne de rato e outros animais - furão e raposa - como se fosse de cordeiro.",raiva
 "Homens ateiam fogo em usuário de drogas. Segundo a polícia, crime aconteceu durante a noite de domingo em MS. Suspeitos fugiram e estão sendo procurados.",raiva
 "Cozinheiro confunde pesticida com tempero e envenena 21 pessoas. Os investigadores determinaram que se trata de um caso de negligência.",raiva
@@ -903,7 +903,7 @@ texto,classe
 "Professor uruguaio humilha alunos em excursão. Através de mensagens de texto, fotografias e encontros, ele dava ordens para que alunos cumprissem seus desejos com pena de expulsão",raiva
 "Estupradores riam enquanto estupravam turista em van, diz namorado de vítima. Norte-americana foi estuprada oito vezes enquanto ficou em poder dos criminosos.",raiva
 "STF decide hoje sobre sete empates no julgamento do mensalão. O Supremo Tribunal Federal decide nesta terça-feira (23) como desempatar as votações referentes a sete réus do mensalão, último passo antes da definição das penas dos condenados, a chamada dosimetria. O presidente do STF, Ayres Britto, confirmou pela manhã que a sessão de hoje será aberta com a discussão sobre os empates e afirmou que a tendência é que o plenário decida pela absolvição. Na segunda-feira, Britto defendeu que em caso de empate, o réu deve ser absolvido.",raiva
-"Ex-alunos colocam fogo em colégio estadual no interior do PR, diz polícia. 'Vandalismo aconteceu na madrugada desta quinta-feira (25), em Tapejara. ',raiva
+"Ex-alunos colocam fogo em colégio estadual no interior do PR, diz polícia. 'Vandalismo aconteceu na madrugada desta quinta-feira (25), em Tapejara. ",raiva
 "Infraero regista atrasos em 8,6% dos voos: Das 371 operações previstas, 32 atrasaram mais de 30 minutos. Outras 23 foram canceladas.",raiva
 "Homem confessa que matou a própria família em Penha. Luiz Carlos Flores, 38 anos estava sob efeito da droga quando matou o pai, a mãe, a irmã e o sobrinho de 10 anos a marteladas. A chacina ocorreu na noite de sexta, no Bairro Armação.",raiva
 "Mulher que empurrou hindu no metrô de NY acusada de crime de ódio. Uma mulher de 31 anos foi acusada de cometer um crime de ódio ao empurrar no metrô da cidade de Nova York um hindu, que morreu atropelado por um trem subterrâneo.",raiva
@@ -978,7 +978,7 @@ texto,classe
 "Mãe russa se distrai com bolsa e carrinho de bebê vai parar na rua. Motorista precisou buzinar para alertar mulher sobre o perigo.",raiva
 "Mãe esquece filho em loja nos EUA e só percebe 1 hora depois. Os policiais acabaram achando maconha com a mãe.",raiva
 "Americana leva filha de 5 anos a câmara de bronzeamento. Enfermeira da escola descobriu caso após ver queimaduras em Anne.",raiva
-"Motociclista foge após causar acidente em Boa Vista, diz polícia. Duas pessoas ficaram feridas no acidente de trânsito neste domingo ',raiva
+"Motociclista foge após causar acidente em Boa Vista, diz polícia. Duas pessoas ficaram feridas no acidente de trânsito neste domingo ",raiva
 "Carne de rato é vendida como se fosse cordeiro na China. Autoridades chinesas descobriram que restaurantes estavam vendendo carne de rato e outros animais - furão e raposa - como se fosse de cordeiro.",raiva
 "Homens ateiam fogo em usuário de drogas. Segundo a polícia, crime aconteceu durante a noite de domingo em MS. Suspeitos fugiram e estão sendo procurados.",raiva
 "Cozinheiro confunde pesticida com tempero e envenena 21 pessoas. Os investigadores determinaram que se trata de um caso de negligência.",raiva
@@ -1007,11 +1007,11 @@ texto,classe
 "Americano encontra 'limão gigante' em jardim na Califórnia. Maçã usada para comparação ficou pequena perto da fruta. Usuários suspeitam que seja espécie de 'limão de ponderosa'.",surpresa
 "Dono pede a usuários que fumem maconha no seu bar em Washington. Frank Schnarr diz que não gosta da erva, mas quer faturar com nova lei. Autoridades e advogados não sabem ao certo se procedimento é legal.",surpresa
 "Mamífero que bota ovos da Nova Guiné intriga os cientistas: Animal é um dos mamíferos mais antigos e tímidos do mundo. Pesquisador se dedica a desvendar mistérios dessa criatura.",surpresa
-"Filhote de jacaré é capturado por moradores de Jaboatão, PE. Um exemplar adulto também apareceu no local, mas conseguiu fugir. ',surpresa
+"Filhote de jacaré é capturado por moradores de Jaboatão, PE. Um exemplar adulto também apareceu no local, mas conseguiu fugir. ",surpresa
 "Britânica agride namorado ao flagrá-lo no aeroporto com amante. Incidente ocorreu no aeroporto de Birmingham. Mulher pegou 12 meses de liberdade condicional.",surpresa
 "Animais domésticos são fonte de grande parte das doenças humanas: Estudo divulgado pela 'Nature' mostrou o fenômeno. Aids, dengue, malária e febre amarela figuram da lista.",surpresa
 "Dona de casa diz ter achado sapo no molho de tomate. Uma moradora de Franca, no interior paulista, teve uma surpresa desagradável ao preparar uma macarronada para a família. Quando despejou o molho na panela, assim que esquentou ele começou a espirrar para todo lado. Ao verificar o que acontecia, se deparou com um objeto estranho em seu interior. Assustada, a mulher e a família perderam até a fome devido à aparência repugnante daquilo que estava no meio do molho.",surpresa
-"Após comer biscoitos, consumidora diz ter encontrado larvas em pacote. Gabriela Silva filmou larvas vivas em bolacha dentro do prazo de validade. ',surpresa
+"Após comer biscoitos, consumidora diz ter encontrado larvas em pacote. Gabriela Silva filmou larvas vivas em bolacha dentro do prazo de validade. ",surpresa
 "Cabeça gigante é achada boiando em rio e gera curiosidade nos EUA. Objeto feito de fibra de vidro e poliestireno foi visto flutuando no rio Hudson.",surpresa
 "Marta Suplicy participa da Parada Gay em São Paulo: Ex-prefeita desfilou em trio elétrico pela avenida Paulista. Parada começou pouco após o meio-dia deste domingo (14).",surpresa
 "Detentos a caminho do trabalho são flagrados com maconha e celulares. No veículo abordado foram encontrados também 400 gr de maconha.",surpresa
@@ -1129,11 +1129,11 @@ texto,classe
 "Americano encontra 'limão gigante' em jardim na Califórnia. Maçã usada para comparação ficou pequena perto da fruta. Usuários suspeitam que seja espécie de 'limão de ponderosa'.",surpresa
 "Dono pede a usuários que fumem maconha no seu bar em Washington. Frank Schnarr diz que não gosta da erva, mas quer faturar com nova lei. Autoridades e advogados não sabem ao certo se procedimento é legal.",surpresa
 "Mamífero que bota ovos da Nova Guiné intriga os cientistas: Animal é um dos mamíferos mais antigos e tímidos do mundo. Pesquisador se dedica a desvendar mistérios dessa criatura.",surpresa
-"Filhote de jacaré é capturado por moradores de Jaboatão, PE. Um exemplar adulto também apareceu no local, mas conseguiu fugir. ',surpresa
+"Filhote de jacaré é capturado por moradores de Jaboatão, PE. Um exemplar adulto também apareceu no local, mas conseguiu fugir. ",surpresa
 "Britânica agride namorado ao flagrá-lo no aeroporto com amante. Incidente ocorreu no aeroporto de Birmingham. Mulher pegou 12 meses de liberdade condicional.",surpresa
 "Animais domésticos são fonte de grande parte das doenças humanas: Estudo divulgado pela 'Nature' mostrou o fenômeno. Aids, dengue, malária e febre amarela figuram da lista.",surpresa
 "Dona de casa diz ter achado sapo no molho de tomate. Uma moradora de Franca, no interior paulista, teve uma surpresa desagradável ao preparar uma macarronada para a família. Quando despejou o molho na panela, assim que esquentou ele começou a espirrar para todo lado. Ao verificar o que acontecia, se deparou com um objeto estranho em seu interior. Assustada, a mulher e a família perderam até a fome devido à aparência repugnante daquilo que estava no meio do molho.",surpresa
-"Após comer biscoitos, consumidora diz ter encontrado larvas em pacote. Gabriela Silva filmou larvas vivas em bolacha dentro do prazo de validade. ',surpresa
+"Após comer biscoitos, consumidora diz ter encontrado larvas em pacote. Gabriela Silva filmou larvas vivas em bolacha dentro do prazo de validade. ",surpresa
 "Cabeça gigante é achada boiando em rio e gera curiosidade nos EUA. Objeto feito de fibra de vidro e poliestireno foi visto flutuando no rio Hudson.",surpresa
 "Marta Suplicy participa da Parada Gay em São Paulo: Ex-prefeita desfilou em trio elétrico pela avenida Paulista. Parada começou pouco após o meio-dia deste domingo (14).",surpresa
 "Detentos a caminho do trabalho são flagrados com maconha e celulares. No veículo abordado foram encontrados também 400 gr de maconha.",surpresa
@@ -1669,7 +1669,7 @@ texto,classe
 "Vândalos destroem posto de saúde e deixam moradores sem atendimento. Caso aconteceu no bairro Jardim Sabiá, em Ponta Grossa, nesta quinta. Além de quebrar porta de vidro, vândalos furtaram computador.",raiva
 "Suspeito de estupro deixa filho sozinho no carro enquanto comete o crime. Homem se passou por policial e disse que a jovem de 20 anos, que tinha acabado de sair do trabalho, era investigada por tráfico de drogas.",raiva
 "Mãe é indiciada por morte de bebê agredido por seu namorado nos EUA. Jovem de 21 anos pagou fiança de US$ 50 mil para ser liberada. Segundo a polícia, ela sabia que namorado agredia a filha.",raiva
-"Mulher confessa que matou filha afogada em São Paulo. Segundo a Polícia Civil, a mãe tentou asfixiar a criança com um travesseiro, sem êxito. Depois, encheu uma pia de água, onde afogou a menor. ',raiva
+"Mulher confessa que matou filha afogada em São Paulo. Segundo a Polícia Civil, a mãe tentou asfixiar a criança com um travesseiro, sem êxito. Depois, encheu uma pia de água, onde afogou a menor. ",raiva
 "Prefeitura de Pato Branco, no PR, é incendiada por vândalos. Caso aconteceu na madrugada de domingo (9); ninguém se feriu. Na praça do Centro da cidade, a decoração de Natal também foi danificada.",raiva
 "Morre vítima de estupro coletivo na Índia. Estudante de medicina de 23 anos foi estuprada por quase uma hora. Caso chocou o país e gerou protestos.",raiva
 "Elefante tem presas e cauda cortadas por caçadores e morre na Índia. Ataque ocorreu nesta quinta (6) em Goalpura, no nordeste do país. Em foto, animal aparece deitado em poça de lama após lutar pela vida.",raiva
